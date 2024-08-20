@@ -4,6 +4,8 @@
 [![An image of @eternoseeker's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eternoseeker)](https://holopin.io/@eternoseeker)
 
 [![EternoSeeker's GitHub | Stats](https://stats.quine.sh/EternoSeeker/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EternoSeeker)
+
+![](./profile-3d-contrib/profile-night-green.svg)
 <!--
 **EternoSeeker/EternoSeeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

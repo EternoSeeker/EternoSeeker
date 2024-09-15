@@ -1,5 +1,8 @@
-# Hi there 👋, I'm Shrihari
+# Hi, I'm Shrihari! 👋
+## 🚀 About Me
+I’m a passionate developer with a curiosity for exploring a wide range of technologies. I have a strong interest in machine learning and deep learning, constantly seeking to learn and innovate in these fields. Whether it's diving into new frameworks or solving complex problems, I’m always eager to expand my skill set and tackle exciting challenges.
 
+## 🛠 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -33,11 +36,13 @@
 
 ###
 
+[![roadmap.sh](https://roadmap.sh/card/tall/64f08a7fb128dce3cb95f264?variant=dark)](https://roadmap.sh)
+
+###
+
 <div align="left">
   <img src="https://profile-counter.glitch.me/EternoSeeker/count.svg?"  />
 </div>
-
-###
 
 ###
 

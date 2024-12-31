@@ -1,6 +1,6 @@
 # Hi, I'm Shrihari! 👋
 ## 🚀 About Me
-I’m a passionate developer with a curiosity for exploring a wide range of technologies. I have a strong interest in machine learning and deep learning, constantly seeking to learn and innovate in these fields. Whether it's diving into new frameworks or solving complex problems, I’m always eager to expand my skill set and tackle exciting challenges.
+I’m a passionate developer with curiosity.
 
 ## 🛠 Skills
 <div align="left">

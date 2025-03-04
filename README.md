@@ -29,9 +29,6 @@ I’m a passionate developer with curiosity.
 
 <br>
 
-[![EternoSeeker's GitHub | Stats](https://stats.quine.sh/EternoSeeker/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=EternoSeeker)
-[![EternoSeeker's GitHub | Dependencies](https://stats.quira.sh/EternoSeeker/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=EternoSeeker)
-
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ###

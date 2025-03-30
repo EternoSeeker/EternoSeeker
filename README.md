@@ -2,6 +2,7 @@
 ## 🚀 About Me
 I’m a passionate developer with curiosity.
 
+"It's not what we call ourselves that matters, it's the attitude we bring and the skills we can contribute." - Steve Krug
 ## 🛠 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />

@@ -28,10 +28,6 @@ I’m a passionate developer with curiosity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-<br>
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
 ###
 
 [![roadmap.sh](https://roadmap.sh/card/tall/64f08a7fb128dce3cb95f264?variant=dark)](https://roadmap.sh)
